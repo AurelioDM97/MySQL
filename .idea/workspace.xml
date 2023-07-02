@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e09f433-f8c7-489f-8c45-21c1461f49d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5e054a5f3213ac2243b94faf43a7e9d7101bfff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc7d55f3b4224db005d92b3cd7536b4f7d1f01b1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/5/f5e054a5f3213ac2243b94faf43a7e9d7101bfff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/c/fc7d55f3b4224db005d92b3cd7536b4f7d1f01b1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MySql/Exercise_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySql/Exercise_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_2/MJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_2/MJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
