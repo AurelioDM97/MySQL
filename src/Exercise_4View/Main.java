@@ -15,8 +15,8 @@ public class Main {
         try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/newdb", "root", "aureliodimarco97!");
              Statement statement = connection.createStatement()) {
 
-            statement.executeUpdate("create view italian_students as select first_name, last_name from students where country = 'italy'");
-            statement.executeUpdate("create view german_students as select first_name, last_name from students where country = 'german'");
+            statement.execute("create view italian_students as select first_name, last_name from students where country = 'italy'");
+            statement.execute("create view german_students as select first_name, last_name from students where country = 'german'");
 
             ResultSet resultSet = statement.executeQuery("SELECT first_name, last_name FROM italian_students");
             while(resultSet.next()) {
